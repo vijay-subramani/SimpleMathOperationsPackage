@@ -19,7 +19,7 @@ A simple Swift package providing basic mathematical operations.
 1. Open Xcode and go to `File > Swift Packages > Add Package Dependency`
 2. Enter the repository URL:
    ```
-   https://github.com/yourusername/MathOperationsPackage.git
+   https://github.com/vijay-subramani/SimpleMathOperationsPackage.git
    ```
 3. Select the latest version and add it to your project.
 
